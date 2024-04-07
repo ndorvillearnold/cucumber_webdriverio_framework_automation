@@ -38,7 +38,7 @@ On the terminal enter: npx wdio config then hit enter
     
         
 
-
-
+side note to self
+repo folder
 
 
