@@ -30,9 +30,11 @@ On the terminal enter: npx wdio config then hit enter
         
         
         
+        To run file run command:
+        npm run wdio
         
-        
-        
+        If it does not run you may need to download chrome version
+        This version of ChromeDriver only supports Chrome version 112
     
         
 
