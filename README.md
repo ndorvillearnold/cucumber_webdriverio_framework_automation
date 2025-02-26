@@ -17,7 +17,7 @@ This is an ongoing project, and I will continue to enhance the features and auto
 
 Before starting, ensure you have the following installed:
 
-- **Node.js**: [Download Node.js](https://nodejs.org/en/download/)
+## Node.js**: [Download Node.js](https://nodejs.org/en/download/)
 
 Once you have **Node.js** installed, follow these steps to set up the project.
 
@@ -27,7 +27,7 @@ Once you have **Node.js** installed, follow these steps to set up the project.
    npm install --save-dev @wdio/cli
    npx wdio config
 
- --**  Configuration for WDO below
+## Configuration for WDO below
 I named the project.
 Select Cucumber as the framework.
 For the question "Where is your automation backend located?", select "On my local machine".
@@ -36,13 +36,13 @@ Select Yes for WebdriverIO.
 Select Yes for Page Objects.
 Choose localhost for the execution environment.
 
--**Dependencies
+## Dependencies
 npm install
 
--**run automation
+## run automation
 npm run dev
 
--**run wdio test
+## run wdio test
 npm run wdio
 
 
