@@ -28,13 +28,13 @@ Once you have **Node.js** installed, follow these steps to set up the project.
    npx wdio config
 
 ## Configuration for WDO below
-I named the project.
---**Select Cucumber as the framework.
---**For the question "Where is your automation backend located?", select "On my local machine".
---**Select the compiler (choose JavaScript).
---**Select Yes for WebdriverIO.
---**Select Yes for Page Objects.
---**Choose localhost for the execution environment.
+1. I named the project.
+2. Select Cucumber as the framework.
+3. For the question "Where is your automation backend located?", select "On my local machine".
+4. Select the compiler (choose JavaScript).
+5. Select Yes for WebdriverIO.
+6. Select Yes for Page Objects.
+7. Choose localhost for the execution environment.
 
 ## Dependencies
 npm install
